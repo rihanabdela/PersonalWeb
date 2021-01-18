@@ -1,0 +1,64 @@
+a:hover{
+    text-decoration: none;
+    opacity: 2;
+}
+
+a{
+	font-family:"Open Sans", sans-serif;
+  color:white;
+}
+
+#nav-bloc {
+  margin-top: 30px;
+}
+
+.navbar{
+	margin-bottom: 0;
+}
+.navbar-brand{
+  margin-top: 4%;
+  margin-left: 4%;
+  font-size: 50px; 
+  font-family: 'Cutive Mono', monospace;
+
+}
+.Header-tagline{
+  margin-left: 6%;
+  font-weight: bold;
+  font-family: 'Cutive Mono', monospace;
+}
+.nav-item .nav-link{
+  padding: 2%;
+  font-family: 'Cutive Mono', monospace; 
+  font-weight: bold;
+}
+
+a:active{
+  color: black;
+}
+.fa{
+  font-size: 25px;
+}
+.navbar-nav > li{
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.nav > li{
+	float: left;
+	margin-top: 4px;
+	font-size: 16px;
+}
+.nav > li a:hover{
+	background:transparent;
+}
+
+body{
+    background-image: url(assets/image/home.jpg); 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-size: cover;
+}
+
+
