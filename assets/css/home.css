@@ -52,13 +52,18 @@ a:active{
 .nav > li a:hover{
 	background:transparent;
 }
+#content{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 
-body{
-    background-image: url(assets/image/home.jpg); 
-    background-position: center center; 
-    background-repeat: no-repeat; 
-    background-attachment: fixed; 
-    background-size: cover;
+#myvideo{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-width: 100%;
 }
 
 
